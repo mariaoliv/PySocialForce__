@@ -33,4 +33,4 @@ if __name__ == "__main__":
 
     with psf.plot.SceneVisualizer(s, "images/exmaple") as sv:
         sv.animate()
-        # sv.plot()
+        sv.plot()
